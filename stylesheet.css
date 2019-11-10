@@ -673,6 +673,10 @@ h2 {
     height: 70rem;
 }
 
+#faq-area .section-heading p{
+	text-align: center;
+}
+
 #faq-area .container .row .faq-img > img {
     width: 35rem;
 }
